@@ -1,8 +1,9 @@
 # Paq
 
 Local environment setup steps: 
--Install homebrew
-	-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+
+- Install homebrew
+	- ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
 - install node and npm (v4)
 	- Brew install node
 	- Downgrade NPM to v4		
