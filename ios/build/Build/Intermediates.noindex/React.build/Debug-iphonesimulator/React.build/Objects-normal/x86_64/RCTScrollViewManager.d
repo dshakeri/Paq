@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTScrollViewManager.m \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTScrollViewManager.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/dshakeri/Documents/code/Paq/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/dshakeri/Documents/code/Paq/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/dshakeri/Documents/code/Paq/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTView.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/React/Modules/RCTUIManager.h
