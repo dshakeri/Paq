@@ -1,5 +1,5 @@
- extern const unsigned char PaqVersionString[];
- extern const double PaqVersionNumber;
+ extern const unsigned char paqVersionString[];
+ extern const double paqVersionNumber;
 
- const unsigned char PaqVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Paq  PROJECT:Paq-1" "\n";
- const double PaqVersionNumber __attribute__ ((used)) = (double)1.;
+ const unsigned char paqVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:paq  PROJECT:paq-1" "\n";
+ const double paqVersionNumber __attribute__ ((used)) = (double)1.;

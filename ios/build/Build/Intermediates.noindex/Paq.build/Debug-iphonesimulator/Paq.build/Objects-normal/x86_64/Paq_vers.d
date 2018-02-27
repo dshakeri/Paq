@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/dshakeri/Documents/code/Paq/ios/build/Build/Intermediates.noindex/Paq.build/Debug-iphonesimulator/Paq.build/DerivedSources/Paq_vers.c
+  /Users/dshakeri/Documents/paq/ios/build/Build/Intermediates.noindex/paq.build/Debug-iphonesimulator/paq.build/DerivedSources/paq_vers.c

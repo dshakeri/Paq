@@ -9,29 +9,47 @@ import {
   Platform,
   StyleSheet,
   Text,
-  View
+  View,
+  TouchableOpacity
 } from 'react-native';
 
-const instructions = Platform.select({
-  ios: 'Press Cmd+R to reload,\n' +
-    'Cmd+D or shake for dev menu',
-  android: 'Double tap R on your keyboard to reload,\n' +
-    'Shake or press menu button for dev menu',
-});
+import RNAccountKit from 'react-native-facebook-account-kit';
 
-export default class App extends Component<{}> {
+type Props = {};
+export default class App extends Component<Props> {
+  _loginWithPhone() {
+    RNAccountKit.loginWithPhone().then((token) => {
+      if (!token) {
+        console.log('Login cancelled')
+      } else {
+        console.log(`Logged with phone. Token: ${token}`)
+      }
+    })
+  }
+
+  _loginWithEmail() {
+    RNAccountKit.loginWithEmail().then((token) => {
+      if (!token) {
+        console.log('Login cancelled')
+      } else {
+        console.log(`Logged with email. Token: ${token}`)
+      }
+    })
+  }
+
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
+        <Text style={styles.text}>
+          PAQ!
         </Text>
-        <Text style={styles.instructions}>
-          To get started, edit App.js
-        </Text>
-        <Text style={styles.instructions}>
-          {instructions}
-        </Text>
+        <TouchableOpacity style={styles.button} onPress={() => this._loginWithPhone()}>
+          <Text style={styles.buttonText}>Phone</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={styles.button} onPress={() => this._loginWithEmail()}>
+          <Text style={styles.buttonText}>Email</Text>
+        </TouchableOpacity>
+
       </View>
     );
   }
@@ -44,14 +62,20 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
   },
-  welcome: {
+  text: {
     fontSize: 20,
     textAlign: 'center',
     margin: 10,
   },
-  instructions: {
+  button: {
+    height: 50,
+    width: 300,
+    backgroundColor: 'aqua',
+    marginBottom: 10
+  },
+  buttonText: {
+    fontSize: 20,
     textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
+    margin: 10,
   },
 });

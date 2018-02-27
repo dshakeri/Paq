@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegateAdapter.m \
-  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegateAdapter.h \
-  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h \
-  /Users/dshakeri/Documents/code/Paq/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegate.h
+  /Users/dshakeri/Documents/paq/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.m \
+  /Users/dshakeri/Documents/paq/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.h \
+  /Users/dshakeri/Documents/paq/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/dshakeri/Documents/paq/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h

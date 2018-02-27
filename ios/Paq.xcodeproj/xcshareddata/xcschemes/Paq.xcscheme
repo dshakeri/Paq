@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Paq.app"
-               BlueprintName = "Paq"
-               ReferencedContainer = "container:Paq.xcodeproj">
+               BuildableName = "paq.app"
+               BlueprintName = "paq"
+               ReferencedContainer = "container:paq.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "PaqTests.xctest"
-               BlueprintName = "PaqTests"
-               ReferencedContainer = "container:Paq.xcodeproj">
+               BuildableName = "paqTests.xctest"
+               BlueprintName = "paqTests"
+               ReferencedContainer = "container:paq.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "PaqTests.xctest"
-               BlueprintName = "PaqTests"
-               ReferencedContainer = "container:Paq.xcodeproj">
+               BuildableName = "paqTests.xctest"
+               BlueprintName = "paqTests"
+               ReferencedContainer = "container:paq.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Paq.app"
-            BlueprintName = "Paq"
-            ReferencedContainer = "container:Paq.xcodeproj">
+            BuildableName = "paq.app"
+            BlueprintName = "paq"
+            ReferencedContainer = "container:paq.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Paq.app"
-            BlueprintName = "Paq"
-            ReferencedContainer = "container:Paq.xcodeproj">
+            BuildableName = "paq.app"
+            BlueprintName = "paq"
+            ReferencedContainer = "container:paq.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Paq.app"
-            BlueprintName = "Paq"
-            ReferencedContainer = "container:Paq.xcodeproj">
+            BuildableName = "paq.app"
+            BlueprintName = "paq"
+            ReferencedContainer = "container:paq.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

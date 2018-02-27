@@ -1,5 +1,5 @@
 {
-  "name": "Paq",
+  "name": "paq",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,15 +7,15 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.0.0",
-    "react-native": "0.50.1",
-    "react-native-fbsdk": "^0.6.3"
+    "react": "16.2.0",
+    "react-native": "0.53.2",
+    "react-native-facebook-account-kit": "^0.9.0"
   },
   "devDependencies": {
-    "babel-jest": "21.2.0",
+    "babel-jest": "22.2.2",
     "babel-preset-react-native": "4.0.0",
-    "jest": "21.2.1",
-    "react-test-renderer": "16.0.0"
+    "jest": "22.3.0",
+    "react-test-renderer": "16.2.0"
   },
   "jest": {
     "preset": "react-native"
